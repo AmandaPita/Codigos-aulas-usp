@@ -1,5 +1,4 @@
-#som acarto
-# busca os sons de acerto com a taxa em 0.775
+# codigo para buscar os sons de acerto com a taxa em 0.775
 
 x = read.delim("C:/Users/Windows 7/test.txt", header=F)
 x = x[,1]
